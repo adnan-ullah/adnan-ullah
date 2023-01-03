@@ -1,7 +1,4 @@
-- 👋 Hi There! I’m Adnan Ullah || (@adnan-ullah)
-- 👀 Interested in completing incomplete... 
-- 🌱 I’m currently learning princess machine learning
-- 💞️ I’m looking to collaborate on ...
+I’m Adnan Ullah || (@adnan-ullah)
 - 📫 How to reach me _->  email: daaztanbd71@gmail.com
                            fb: https://www.facebook.com/adnan.ullah99
 
